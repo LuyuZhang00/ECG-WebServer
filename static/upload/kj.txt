@@ -1,0 +1,4 @@
+操作postgre：
+ sudo -i -u postgres
+ psql
+ 

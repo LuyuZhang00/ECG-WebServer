@@ -1,0 +1,4 @@
+经如postgre
+ sudo -i -u postgres
+ psql
+ 

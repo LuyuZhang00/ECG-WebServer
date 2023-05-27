@@ -1,0 +1,49 @@
+{
+  "name": "apifox",
+  "homepage": "https://www.apifox.cn/",
+  "description": "apifox",
+  "version": "2.2.27",
+  "private": true,
+  "main": "dist/main/main.js",
+  "author": {
+    "name": "Apifox Team",
+    "email": "apifox001@gmail.com"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "@electron/remote": "2.0.1",
+    "bytenode": "1.1.7",
+    "chardet": "^1.4.0",
+    "@tarslib/json-schema-faker": "2.2.19-alpha.1",
+    "koa-better-body": "3.3.9",
+    "@tarslib/json-bigint": "^1.0.2",
+    "mssql": "^8.1.2",
+    "mysql2": "^2.3.3",
+    "oracledb": "^5.1.0",
+    "pg": "^8.5.1",
+    "open": "^7.4.2",
+    "@tarslib/dmdb": "1.0.10728-alpha.3",
+    "pinyin": "2.10.2",
+    "node-machine-id": "1.1.12",
+    "platform": "1.3.6",
+    "@tarslib/swagger2openapi": "6.0.3-beta.1",
+    "@tarslib/widdershins": "4.0.17",
+    "jsonpath": "1.1.1",
+    "clone": "^2.1.0",
+    "@tarslib/nunjucks": "2.2.9-alpha.2",
+    "mkdirp": "~0.5.1",
+    "node-schedule": "2.0.0",
+    "ssh2": "^1.11.0",
+    "clickhouse": "2.6.0"
+  },
+  "customBuild": {
+    "stable": {
+      "forceAutoUpdateVersion": "2.1.8",
+      "autoUpdateDuration": 9999999999
+    },
+    "alpha": {
+      "forceAutoUpdateVersion": "2.1.8-alpha.66",
+      "autoUpdateDuration": 9999999999
+    }
+  }
+}
