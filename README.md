@@ -177,7 +177,6 @@ pycharm：
 平台的部署教程较多，这里不再赘述。
 ![腾讯云.png](img%2F%E8%85%BE%E8%AE%AF%E4%BA%91.png)
 
-![腾讯云2.png](img%2F%E8%85%BE%E8%AE%AF%E4%BA%912.png)
 参考链接：
 https://blog.csdn.net/qq_45660133/article/details/123391558
 
