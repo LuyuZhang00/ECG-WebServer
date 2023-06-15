@@ -175,8 +175,6 @@ pycharm：
 需要域名且备案，由于备案未成功，后续可再次进行尝试
 
 平台的部署教程较多，这里不再赘述。
-![腾讯云.png](img%2F%E8%85%BE%E8%AE%AF%E4%BA%91.png)
-
 参考链接：
 https://blog.csdn.net/qq_45660133/article/details/123391558
 
